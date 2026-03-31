@@ -2,11 +2,3 @@
 .venv/
 __pycache__/
 *.pyc
-
-# Data files
-sample.jsonl
-unarXive_data_sample/
-unarXive_data_sample.tar.gz
-
-# Generated outputs
-*.csv
